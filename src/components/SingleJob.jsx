@@ -3,7 +3,6 @@ import { useParams } from 'react-router-dom';
 import data from '../staticData/jobsData'
 
 
-
 const SingleJob = () => {
     const {id} = useParams()
     
