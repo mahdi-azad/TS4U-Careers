@@ -1,0 +1,57 @@
+html, body { overflow-x:hidden; }
+.singleJob-content {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.job-title {
+    text-align: center;
+    color: #072539;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+.job-desc {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+.location {
+    justify-content: space-between;
+    margin-bottom: 30px;
+    display: flex;
+}
+.location p {
+    font-size: 1.2em;
+    
+}
+.location button {
+    background-color: #072539;
+    color: white;
+    border-radius: 3px;
+    padding: 20px;
+    font-size: 1.2em;
+}
+.responsibility {
+    margin-bottom: 30px;
+}
+.resp-item {
+    margin-top: 10px;
+}
+.qual-item {
+    margin-top: 10px;
+}
+.info-last {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.dhaka {
+    display: flex;
+}
+.pointer {
+    width: 20px;
+    height: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    
+}
