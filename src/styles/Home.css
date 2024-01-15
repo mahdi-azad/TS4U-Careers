@@ -37,7 +37,7 @@ html, body { overflow-x:hidden; }
 .content {
     width: 90%;
     background-color: white;
-    height: 100px;
+    /* height: 100px; */
     margin: 0 auto;
     margin-top: 50px;
 }
@@ -56,7 +56,7 @@ html, body { overflow-x:hidden; }
 .jobs-list {
     width: 90%;
     background-color: white;
-    height: 100px;
+    /* height: 100px; */
     margin: 0 auto;
     margin-top: 50px;
 }
